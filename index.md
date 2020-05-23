@@ -10,7 +10,7 @@ Nothing in particular but it's nice to have a chance to list stuff here:
 
 Please keep coming back for more on this interesting questions
 
-[post 1] (https://jfuentes66.github.io/_posts/post1.md).
+[post 1](https://jfuentes66.github.io/_posts/post1.md).
 
 [project Jekyll](https://jfuentes66.github.io/github-pages-with-jekyll).
 
