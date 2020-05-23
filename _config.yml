@@ -1,0 +1,13 @@
+title: GitHub Pages at work 1
+author: GitHub User
+email: jfuentes66@gmail.com
+theme: merlot
+description: > # this means to ignore newlines until "baseurl:"
+  This is my description of this site. It's been edited in _config.yml. 
+  It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+# social links
+twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
+github_username:  jfuentes66 # DO NOT include the @ character, or else the build will fail!
+
+show_excerpts: true # set to false to remove excerpts on the homepage
